@@ -60,7 +60,7 @@ Ecommerce_Sales_and_Customer_Analysis/
 ---
 
 ### 👥 Customer Segmentation (RFM)
-![RFM Segments](images/Segment Distribution.png)
+![RFM Segments](images/Segment_Distribution.png)
 
 
 ---
