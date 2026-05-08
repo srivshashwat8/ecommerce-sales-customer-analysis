@@ -25,7 +25,7 @@ The goal is to generate actionable business insights using Python.
 ---
 
 ##  Project Structure
-`
+```
 Ecommerce_Sales_and_Customer_Analysis/
 │
 ├── Ecommerce_Sales_and_Customer_Analysis.ipynb
@@ -37,7 +37,7 @@ Ecommerce_Sales_and_Customer_Analysis/
 │ ├── rfm_segments.png
 │ └── segment_revenue.png
 └── README.md
-`
+```
 
 
 ---
